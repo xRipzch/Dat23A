@@ -4,7 +4,7 @@ public class HelloRunner {
     }
 
     public void run() {
-        printText("Hello Runner");
+        printText("Hello Runner!");
     }
 
     public void printText(String Text) {
